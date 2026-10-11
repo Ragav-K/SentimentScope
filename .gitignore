@@ -1,0 +1,7 @@
+aclImdb/
+aclImdb_v1.tar.gz
+_tok_cache*.pt
+SentimentScope_executed.ipynb
+.ipynb_checkpoints/
+__pycache__/
+.venv/
